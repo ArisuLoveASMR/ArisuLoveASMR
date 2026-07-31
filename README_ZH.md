@@ -56,11 +56,11 @@
 
 ### 环境变量
 
-| 环境变量           | 说明                     | 默认值 | 备注                     |
-|--------------------|--------------------------|--------|--------------------------|
-| `DEEPL_API_KEY`    | DeepL API Key            | `''`   | DeepL 必需               |
-| `GEMINI_API_KEY`   | Gemini API Key           | `''`   | Gemini 必需              |
-| `HF_TOKEN`         | Hugging Face Token       | `''`   | 说话人分离功能需要       |
+| 环境变量           | 说明                     | 备注                         |
+|--------------------|--------------------------|------------------------------|
+| `DEEPL_API_KEY`    | DeepL API 密钥           | DeepL 必需                   |
+| `GEMINI_API_KEY`   | Gemini API 密钥          | Gemini 必需                  |
+| `HF_TOKEN`         | Hugging Face Token       | 说话人分离功能需要           |
 
 ### 使用便利性
 - 美观的 Gradio 界面
