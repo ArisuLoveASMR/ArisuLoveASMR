@@ -55,11 +55,11 @@
 
 ### Environment Variables
 
-| Environment Variable   | Description                     | Default | Remarks                          |
-|------------------------|---------------------------------|---------|----------------------------------|
-| `DEEPL_API_KEY`        | DeepL API Key                   | `''`    | Обязателен для DeepL             |
-| `GEMINI_API_KEY`       | Gemini API Key                  | `''`    | Обязателен для Gemini            |
-| `HF_TOKEN`             | Hugging Face Token              | `''`    | Нужен для диаризации (спикеры)   |
+| Переменная окружения | Описание                     | Примечание                     |
+|----------------------|------------------------------|--------------------------------|
+| `DEEPL_API_KEY`      | API-ключ DeepL               | Обязателен для DeepL           |
+| `GEMINI_API_KEY`     | API-ключ Gemini              | Обязателен для Gemini          |
+| `HF_TOKEN`           | Токен Hugging Face           | Нужен для диаризации (спикеры) |
 
 
 ### Удобство
