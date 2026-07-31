@@ -56,11 +56,11 @@ Several translation methods are supported:
 
 ### Environment Variables
 
-| Environment Variable | Description              | Default | Remarks                        |
-|----------------------|--------------------------|---------|--------------------------------|
-| `DEEPL_API_KEY`      | DeepL API Key            | `''`    | Required for DeepL             |
-| `GEMINI_API_KEY`     | Gemini API Key           | `''`    | Required for Gemini            |
-| `HF_TOKEN`           | Hugging Face Token       | `''`    | Required for diarization       |
+| Environment Variable | Description              | Remarks                        |
+|----------------------|--------------------------|--------------------------------|
+| `DEEPL_API_KEY`      | DeepL API Key            | Required for DeepL             |
+| `GEMINI_API_KEY`     | Gemini API Key           | Required for Gemini            |
+| `HF_TOKEN`           | Hugging Face Token       | Required for diarization       |
 
 ### Convenience
 - Beautiful Gradio interface
