@@ -10,7 +10,7 @@
   [![Notebook](https://img.shields.io/badge/Jupyter%20Notebook-100%25-lightgrey)](https://github.com/ArisuLoveASMR/ArisuLoveASMR/blob/main/ArisuLoveASMR.ipynb)
 </div>
 
-<img width="1612" height="908" alt="forasmr" src="https://github.com/user-attachments/assets/7c6fb1d0-f5bf-4146-98aa-9b5f96989140" />
+<img width="1612" height="908" alt="forasmr" src="https://github.com/ArisuLoveASMR/ArisuLoveASMR/blob/main/screenshots/forasmr.png" />
 
 ---
 ## Описание
