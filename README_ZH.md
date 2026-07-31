@@ -24,12 +24,12 @@
 
 ---
 
-## 从哪里获取 ASMR 和字幕
+## 从哪里获取 ASMR 以及字幕放在哪里
 
-推荐使用以下工具：
+为了方便使用，推荐使用以下工具：
 
-- **[KikoFlu](https://github.com/pa-jesusf/KikoFlu)** — 方便的 ASMR 下载和字幕上传工具
-- **[asmr.one](https://asmr.one)** 
+- **[KikoFlu](https://github.com/pa-jesusf/KikoFlu)** — 方便的 ASMR 下载工具，也可以将 ASMR 作品和字幕导入播放器
+- **[asmr.one](https://asmr.one)**
 
 ---
 
