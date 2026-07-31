@@ -5,11 +5,11 @@
  
   用于自动生成字幕并将其翻译成任何语言的 Google Colab 笔记本
  
-  [![Colab](https://img.shields.io/badge/Open%20in%20Colab-orange?logo=googlecolab)](https://colab.research.google.com/github/ArisuLoveASMR/ArisuLoveASMR/blob/main/ArisuLoveASMR.ipynb)
-  [![Notebook](https://img.shields.io/badge/Jupyter%20Notebook-100%25-lightgrey)](https://github.com/ArisuLoveASMR/ArisuLoveASMR/blob/main/ArisuLoveASMR.ipynb)
+  [![Colab](https://img.shields.io/badge/Open%20in%20Colab-orange?logo=googlecolab)](https://colab.research.google.com/github.com/ArisuLoveASMR/ArisuLoveASMR/blob/main/ArisuLoveASMR_ZH.ipynb)
+  [![Notebook](https://img.shields.io/badge/Jupyter%20Notebook-100%25-lightgrey)](https://github.com/ArisuLoveASMR/ArisuLoveASMR/blob/main/ArisuLoveASMR_ZH.ipynb)
 </div>
 
-<img width="1612" height="908" alt="forasmr" src="https://github.com/user-attachments/assets/7c6fb1d0-f5bf-4146-98aa-9b5f96989140" />
+<img width="1612" height="908" alt="forasmr" src="https://github.com/ArisuLoveASMR/ArisuLoveASMR/blob/main/screenshots/forasmr.png" />
 
 ---
 
