@@ -24,11 +24,11 @@
 
 ---
 
-## Where to get ASMR and subtitles
+## Where to get ASMR and where to put subtitles
 
-For convenient work, it is recommended to use:
+For convenient use, it is recommended to use:
 
-- **[KikoFlu](https://github.com/pa-jesusf/KikoFlu)** — a convenient tool for downloading ASMR and uploading subtitles
+- **[KikoFlu](https://github.com/pa-jesusf/KikoFlu)** — a convenient tool for downloading ASMR and loading ASMR works and subtitles into the player
 - **[asmr.one](https://asmr.one)** — Currently, using asmr.one without an Asian VPS is not possible. This limitation can be bypassed using [KikoFlu](https://github.com/pa-jesusf/KikoFlu)
 
 ---
