@@ -4,7 +4,7 @@
 
  Русский | [English](README_EN.md) | [简体中文](README_ZH.md)
   
-  Google Colab ноутбук для автоматической генерации субтитров и их перевода на любой язык
+  Google Colab ноутбук для автоматической генерации субтитров и их перевода на любой язык без цензуры
   
   [![Colab](https://img.shields.io/badge/Open%20in%20Colab-orange?logo=googlecolab)](https://colab.research.google.com/github/ArisuLoveASMR/ArisuLoveASMR/blob/main/ArisuLoveASMR.ipynb)
   [![Notebook](https://img.shields.io/badge/Jupyter%20Notebook-100%25-lightgrey)](https://github.com/ArisuLoveASMR/ArisuLoveASMR/blob/main/ArisuLoveASMR.ipynb)
@@ -17,10 +17,11 @@
 
 **ArisuLoveASMR** — это удобный Google Colab ноутбук с графическим интерфейсом, который позволяет:
 
-- Автоматически распознавать речь в ASMR-аудио и видео
-- Генерировать субтитры с высокой точностью
-- Переводить их на любой язык
-- Работать как с медиафайлами, так и с уже готовыми субтитрами
+- Автоматически распознавать речь в любом ASMR-аудио и видео
+- Делать субтитры в SRT, VTT, LRC форматах
+- Присваивать спикеров
+- Переводить их на любой язык без цензуры
+- Обрабатывать сразу несколько файлов
 ---
 ## Откуда брать ASMR и куда закидывать субтитры
 
@@ -37,6 +38,7 @@
 - Настройка Beam Search
 - Определение спикеров (Diarization) — можно включать/выключать
 - Поддержка огромного количества аудио и видео форматов
+- Защита от пустых ответов Gemini: при срабатывании цензуры автоматически переключается на Google Translate
 
 ### Перевод
 
@@ -57,12 +59,6 @@
 | `DEEPL_API_KEY`      | API-ключ DeepL               | Обязателен для DeepL           |
 | `GEMINI_API_KEY`     | API-ключ Gemini              | Обязателен для Gemini          |
 | `HF_TOKEN`           | Токен Hugging Face           | Нужен для диаризации (спикеры) |
-
-
-### Удобство
-- Красивый Gradio-интерфейс
-- Работа с папкой Google Drive
-- Множественная загрузка файлов
 
 ---
 
