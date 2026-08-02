@@ -56,8 +56,8 @@ Google Colab ноутбук для автоматической генераци
 | **Google Translate** | API | | | Быстрый и стабильный |
 | **DeepL** | API | ✓ | | Требует `DEEPL_API_KEY` |
 | **Gemini** | API | ✓ | | Требует `GEMINI_API_KEY` + fallback на Google |
-| **Groq (Llama 3.3 70B)** | API | ✓ | | Быстро, качественно, без цензуры |
-| **Groq (Qwen 3.6 27B)** | API | ✓ | | Хороший баланс скорости и качества |
+| **Groq (Llama 3.3 70B)** | API | ✓ | | Требует `GROQ_API_KEY` |
+| **Groq (Qwen 3.6 27B)** | API | ✓ | | Требует `GROQ_API_KEY` |
 | **Qwen2.5** | Локальная | | ✓ | 7B Uncensored (может съесть VRAM) |
 | **Dolphin 2.9.1** | Локальная | | ✓ | На базе Llama-3-8B (может съесть VRAM) |
 
