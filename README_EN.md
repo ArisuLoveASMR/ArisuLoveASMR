@@ -2,7 +2,7 @@
 
 # ArisuLoveASMR
 
-[Русский](README.md) | English | [简体中文](README_ZH.md)
+[Русский](README.md) | English | [简体中文](README_ZH.md) | [Español](README_ES.md)
 
 Google Colab notebook for automatic subtitle generation and translation into any language **without censorship**
 
