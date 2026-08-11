@@ -2,7 +2,7 @@
 
 # ArisuLoveASMR
 
-[Русский](README.md) | [English](README_EN.md) | 简体中文
+[Русский](README.md) | [English](README_EN.md) | 简体中文 | [Español](README_ES.md)
 
 用于自动生成字幕并翻译成任意语言的 Google Colab 笔记本，**无审查**
 
