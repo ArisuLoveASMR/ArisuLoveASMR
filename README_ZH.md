@@ -148,7 +148,7 @@
 
 推荐这个工具：
 
-- [在 Google Colab 中打开](https://colab.research.google.com/drive/1QCxElEzcapq9Fv25Cu4NjeMVLvkhW60I?usp=sharing)
+- [在 Google Colab 中打开](https://colab.research.google.com/github/zyddnys/manga-image-translator/blob/main/run_as_colab.ipynb)
 - [Manga Image Translator 仓库](https://github.com/zyddnys/manga-image-translator#online-version)
 
 ## 问题与建议
