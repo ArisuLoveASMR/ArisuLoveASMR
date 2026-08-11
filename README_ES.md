@@ -68,7 +68,7 @@ Además:
 - Protección ante respuestas vacías de Gemini: si hay censura, cambia automáticamente a Google Translate
 - Los nombres de los hablantes se adaptan al idioma de destino elegido
 
-> ⚠️ No se recomiendan los modelos locales en Colab T4: alto riesgo de quedarse sin VRAM. Es mejor usar API (Google / DeepL / Gemini / Groq).
+> ⚠️ No se recomiendan los modelos locales en Colab T4: alto riesgo de quedarse sin VRAM Es mejor usar API (Google / DeepL / Gemini / Groq).
 
 ---
 
