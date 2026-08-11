@@ -2,7 +2,7 @@
 
 # ArisuLoveASMR
 
-Русский | [English](README_EN.md) | [简体中文](README_ZH.md)
+Русский | [English](README_EN.md) | [简体中文](README_ZH.md) | [Español](README_ES.md)
 
 Google Colab ноутбук для автоматической генерации субтитров и их перевода на любой язык **без цензуры**
 
