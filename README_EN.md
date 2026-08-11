@@ -148,7 +148,7 @@ Want to translate manga?
 
 Here is a great tool:
 
-- [Open in Google Colab](https://colab.research.google.com/drive/1QCxElEzcapq9Fv25Cu4NjeMVLvkhW60I?usp=sharing)
+- [Open in Google Colab](https://colab.research.google.com/github/zyddnys/manga-image-translator/blob/main/run_as_colab.ipynb)
 - [Manga Image Translator repository](https://github.com/zyddnys/manga-image-translator#online-version)
 
 ## Questions and suggestions
