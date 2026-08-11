@@ -146,7 +146,7 @@ Ruta completa:
 ¿Quieres traducir manga?  
 Te puedo recomendar una excelente herramienta:
 
-- [Abrir en Google Colab](https://colab.research.google.com/drive/1QCxElEzcapq9Fv25Cu4NjeMVLvkhW60I?usp=sharing)
+- [Abrir en Google Colab](https://colab.research.google.com/github/zyddnys/manga-image-translator/blob/main/run_as_colab.ipynb)
 - [Repositorio Manga Image Translator](https://github.com/zyddnys/manga-image-translator#online-version)
 
 ## Preguntas y sugerencias
