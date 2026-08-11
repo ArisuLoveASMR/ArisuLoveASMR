@@ -146,7 +146,7 @@ Google Colab ноутбук для автоматической генераци
 Хотите перевести мангу?  
 Могу посоветовать отличный инструмент:
 
-- [Открыть в Google Colab](https://colab.research.google.com/drive/1QCxElEzcapq9Fv25Cu4NjeMVLvkhW60I?usp=sharing)
+- [Открыть в Google Colab]([https://colab.research.google.com/drive/1QCxElEzcapq9Fv25Cu4NjeMVLvkhW60I?usp=sharing](https://colab.research.google.com/github/zyddnys/manga-image-translator/blob/main/run_as_colab.ipynb))
 - [Репозиторий Manga Image Translator](https://github.com/zyddnys/manga-image-translator#online-version)
 
 
